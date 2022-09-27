@@ -28,5 +28,12 @@
  </ul>
 <h2 align="left"> ✍️ Example Work  </h2>  
   <a href="https://github.com/DechawatRoyda/Dechawat/edit/main/README.md">GitHub</a>
+  
+<h3>Contract</h3>
+      <ul>
+        <li><strong>Address:</strong> 352/1 Moo.13,Srisuk,Sichomphu,Khonkaen</li>
+        <li><strong>Phone number:</strong> (+66) 97-008-4080</li>
+        <li><strong>Email:</strong> dechawat357@gmail.com</li>
+      </ul>
 </h1>   
 
