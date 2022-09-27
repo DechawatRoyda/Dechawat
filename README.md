@@ -6,7 +6,7 @@
 <p align="left"> I’m currently working on Web Development</p>
 <p align="left"> I’m currently learning CSS HTML and Java script.</p>
 
-<h2 align="left"> Skills && Tools 🔧</h2>
+<h2 align="left"> 🔧 Skills && Tools </h2>
 
 <h1 align="left" dir="auto">
 <a href="https://www.arduino.cc" rel="nofollow"> 
@@ -16,13 +16,13 @@
 <a href="https://console.firebase.google.com" rel="nofollow"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" alt="nodejs" width="100" height="30" style="max-width: 100%;"></a>  
 </h1>   
-<h2 align="left"> Work Experience </h2
+<h2 align="left"> 🌟 Work Experience </h2
  <ul>
       <li>HTML CSS DevWeb</li>
       <li>C arduinoIDE make Project Hardware</li>
       <li>Use Firbase realtime</li>
  </ul>
-Example Work    
+✍️<h2 align="left">Example Work  </h2  
 <a href="https://github.com/DechawatRoyda/Dechawat-Royda.git"><b>LET"S GO</b> </a>  
 </h1>   
 
