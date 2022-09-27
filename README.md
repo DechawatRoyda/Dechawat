@@ -42,34 +42,3 @@ Interested in web development and love trying new things. <br />
             </ul>
           <h3>Example Work</h3>
             <a href="">GitHub</a>
-          </p>
-        </article>
-      </section>
-    </main>
-
-    <!-- Sidebar-->
-    <aside id="sidebar" class="card">
-      <h3>Menu</h3>
-      <!-- Navigation -->
-      <ul id="main-nav">
-        <li><a href="#">Home page</a></li>
-        <li><a href="#">About me</a></li>
-        <li><a href="#">Work Experience</a></li>
-      </ul>
-      <hr />
-      <h3>Contract</h3>
-      <ul>
-        <li><strong>Address:</strong> 352/1 Moo.13,Srisuk,Sichomphu,Khonkaen</li>
-        <li><strong>Phone number:</strong> (+66) 97-008-4080</li>
-        <li><strong>Email:</strong> dechawat357@gmail.com</li>
-      </ul>
-    </aside>
-
-    <div class="clr"></div>
-
-    <!-- Footer -->
-    <footer id="footer">
-      <p class="text-center">Copyright &copy; Dechawat Royda 2022</p>
-    </footer>
-  </body>
-</html>
