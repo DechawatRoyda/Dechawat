@@ -36,9 +36,9 @@ Interested in web development and love trying new things. <br />
           <h3>Work Experience</h3>
           <p>
             <ul>
-              <li>● HTML CSS DevWeb</li>
-              <li>● C arduinoIDE make Project Hardware</li>
-              <li>● Use Firbase realtime</li>
+              <li>HTML CSS DevWeb</li>
+              <li>C arduinoIDE make Project Hardware</li>
+              <li>Use Firbase realtime</li>
             </ul>
           <h3>Example Work</h3>
             <a href="">GitHub</a>
