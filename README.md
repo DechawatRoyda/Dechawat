@@ -16,7 +16,14 @@
 <a href="https://console.firebase.google.com" rel="nofollow"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" alt="nodejs" width="80" height="30" style="max-width: 100%;"></a>  
 </h1>   
-<h2 align="left"> Work Experience </h2>
+<h2 align="left"> Work Experience </h2
+ <ul>
+      <li>HTML CSS DevWeb</li>
+      <li>C arduinoIDE make Project Hardware</li>
+      <li>Use Firbase realtime</li>
+ </ul>
+    
 <a href="https://github.com/DechawatRoyda/Dechawat-Royda.git"><b>LET"S GO</b> </a>  
+
 </h1>   
 
