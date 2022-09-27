@@ -24,7 +24,6 @@
       <li>C arduinoIDE make Project Hardware</li>
       <li>Use Firbase realtime</li>
  </ul>
-<h2 align="left"> ✍️ Example Work  </h2  
- <a href="">GitHub</a>
+<h2 align="left"> ✍️ Example Work  </h2>  
 </h1>   
 
