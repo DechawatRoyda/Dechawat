@@ -14,7 +14,7 @@
 <a href="https://code.visualstudio.com" rel="nofollow"> 
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="nodejs" width="40" height="30" style="max-width: 100%;"></a>  
 <a href="https://console.firebase.google.com" rel="nofollow"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" alt="nodejs" width="80" height="30" style="max-width: 100%;"></a>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" alt="nodejs" width="100" height="30" style="max-width: 100%;"></a>  
 </h1>   
 <h2 align="left"> Work Experience </h2
  <ul>
