@@ -12,7 +12,7 @@
  
 <h2 align="left"> 🔧 Skills && Tools </h2>
 
-<h1 align="left" dir="auto">
+<h1 align="left">
 <a href="https://www.arduino.cc" rel="nofollow"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" alt="nodejs" width="40" height="30" style="max-width: 100%;"></a>
 <a href="https://code.visualstudio.com" rel="nofollow"> 
