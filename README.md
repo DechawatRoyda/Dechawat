@@ -1,4 +1,5 @@
-<h1 align="center"> <b> Hi  I'm Lookplub or call me Plub </b>
+<h1 align="center" margin-bottom: 15px; background: #333; color: #fff;
+        padding: 10px;> <b> Hi  I'm Lookplub or call me Plub </b>
 </h1>
 
 <p align="left"> <b>        I'm a computer engineering student at the King Mongkut's University of Technology Thonburi <br />Interested in web development and love trying new things. </b></p>
