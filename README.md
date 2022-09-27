@@ -1,13 +1,3 @@
- <style>
- * {
-      box-sizing: border-box;
-    }
- #header {
-        margin-bottom: 15px;
-        background: #333;
-        color: #fff;
-        padding: 10px;
-      }
 <h1 align="center"> <b> Hi  I'm Lookplub or call me Plub </b>
 </h1>
 
