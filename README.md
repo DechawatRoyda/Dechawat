@@ -1,4 +1,4 @@
-      <h1>Dechawat Royda <small>call me plub</small></h1>
+      <p>Dechawat Royda <small>call me plub</small></p>
     <!-- Main Content -->
     <main id="main">
       <!-- Welcome Section -->
