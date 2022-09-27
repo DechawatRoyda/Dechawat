@@ -11,15 +11,13 @@
     <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-512.png" alt=""width="40" height="40">FACEBOOK</a>             
  
 <h2 align="left"> 🔧 Skills && Tools </h2>
-
-<h1 align="left">
 <a href="https://www.arduino.cc" rel="nofollow"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" alt="nodejs" width="40" height="30" style="max-width: 100%;"></a>
 <a href="https://code.visualstudio.com" rel="nofollow"> 
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="nodejs" width="40" height="30" style="max-width: 100%;"></a>  
 <a href="https://console.firebase.google.com" rel="nofollow"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" alt="nodejs" width="100" height="30" style="max-width: 100%;"></a>  
-</h1>   
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" alt="nodejs" width="100" height="30" style="max-width: 100%;"></a> 
+    
 <h2 align="left"> 🌟 Work Experience </h2
  <ul>
       <li>HTML CSS DevWeb</li>
