@@ -1,7 +1,4 @@
-      <h1>
-        Dechawat Royda <small>call me plub</small>
-      </h1>
-    </div>
+      <h1>Dechawat Royda <small>call me plub</small></h1>
     <!-- Main Content -->
     <main id="main">
       <!-- Welcome Section -->
