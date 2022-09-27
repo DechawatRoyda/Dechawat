@@ -16,9 +16,10 @@ Interested in web development and love trying new things. <br />
            <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-512.png" alt=""width="40" height="40">FACEBOOK</a>        
         </p>
       </section>
-      <!-- Blog Section -->
+    
+    
       <section id="blog">
-        <!-- Article One -->
+   
         <article class="article">
           <h3 align="left"> Skills && Tools</h3>
           <h1 align="left" dir="auto">
