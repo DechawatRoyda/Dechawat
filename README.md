@@ -3,12 +3,8 @@
 
 <p align="left"> <b>        I'm a computer engineering student at the King Mongkut's University of Technology Thonburi <br />Interested in web development and love trying new things. </b></p>
 
-<p align="left"> I’m currently working on Web Development</p>
-<p align="left"> I’m currently learning CSS HTML and Java script.</p>
+<p align="left"> I’m currently working on Web Development <br /> I’m currently learning CSS HTML and Java script.</p>
 
-<a href="https://www.facebook.com/P-lub-Gaming-102563579143297" class="text-center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Video-Game-Controller-Icon-IDV-green.svg/1024px-Video-Game-Controller-Icon-IDV-green.svg.png" alt=""width="40" height="40">Game Streaming Page</a>
-<a href="https://www.facebook.com/profile.php?id=100017935664780" class="text-center">
-<img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-512.png" alt=""width="40" height="40">FACEBOOK</a>
 
 <h2 align="left"> 🔧 Skills && Tools </h2>
 
