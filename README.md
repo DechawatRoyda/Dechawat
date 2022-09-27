@@ -1,7 +1,7 @@
 <h1 align="center"> <b> Hi  I'm Lookplub or call me Plub </b>
 </h1>
 
-<p align="left"> <b>        I'm a computer engineering student at the King Mongkut's University of Technology Thonburi Interested in web development and love trying new things. </b></p>
+<p align="left"> <b>        I'm a computer engineering student at the King Mongkut's University of Technology Thonburi <br />Interested in web development and love trying new things. </b></p>
 
 <p align="left"> I’m currently working on Web Development</p>
 <p align="left"> I’m currently learning CSS HTML and Java script.</p>
